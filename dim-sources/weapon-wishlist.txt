@@ -54,5 +54,4 @@ dimwishlist:item=2119346509&perks=1467527085,1087426260,1359896290,1365187766,28
 // Dead Man's Tale (PvP first-choice roll)
 // (Fluted Barrel), (High-Caliber Rounds), Moving Target, Short-Action Stock, Dark-Forged Trigger
 // Enhanced Intrinsic - Cranial Spike IV
-// Mod - Targeting Adjuster / Backup Mag / Quick Access Sling
 dimwishlist:item=2188764214&perks=1840239774,1561002382,588594999,1067908860,499501121

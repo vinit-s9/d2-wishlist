@@ -1,0 +1,26 @@
+title:Destiny 2 Weapon Wishlist
+description:This wishlist has a collection of god weapon rolls/perks which might prove helpful to destiny 2 players
+
+// Kept Confidence (PvP first-choice roll)
+// (Chambered Compensator), (Flared Magwell), Quickdraw, Eye of the Storm, Head Rush
+// Enhanced Intrinsic - Stability
+// Mod - Icarus Grip
+dimwishlist:item=1875512595&perks=3661387068,3230963543,1961144892,3719974635,2565067140
+
+// Kept Confidence (PvP second-choice roll)
+// (Chambered Compensator), (Flared Magwell), Quickdraw, Gutshot Straight, Head Rush
+// Enhanced Intrinsic - Stability
+// Mod - Icarus Grip
+dimwishlist:item=1875512595&perks=3661387068,3230963543,1961144892,4200236906,2565067140
+
+// Igneous Hammer (PvP first-choice roll)
+// (Hammer-Forged Rifling), (Armor-Piercing Rounds), Slickdraw, Moving Target, Alacrity
+// Masterwork - Stability
+// Mod - Icarus Grip
+dimwishlist:item=1973107014&perks=3250034553,1968497646,1821614984,47981717,2988596335
+
+// Igneous Hammer (PvP second-choice roll)
+// (Hammer-Forged Rifling), (Armor-Piercing Rounds), Slickdraw, Opening Shot, Alacrity
+// Masterwork - Stability
+// Mod - Icarus Grip / Targeting Adjuster
+dimwishlist:item=1973107014&perks=3250034553,1968497646,1821614984,47981717,2988596335
